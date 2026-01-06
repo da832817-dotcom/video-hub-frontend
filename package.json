@@ -13,6 +13,7 @@
     "@tailwindcss/line-clamp": "^0.4.4",
     "@tanstack/react-virtual": "^3.13.16",
     "lodash": "^4.17.21",
+    "lodash.debounce": "^4.0.8",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-hot-toast": "^2.6.0",
